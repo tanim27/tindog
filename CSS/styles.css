@@ -168,7 +168,7 @@ h1{
 
 @media (max-width: 768px) {
     .title-img{
-        width: 12rem;
+        width: 65%;
         rotate: 0deg;
         position: static;
     }
